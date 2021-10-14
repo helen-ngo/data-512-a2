@@ -42,4 +42,5 @@ Many of the "Top 10 countries by coverage" have English as one of their primary 
 Perhaps the bigger takeaway from the results is that most articles on English Wikipedia are not "high-quality." Since Wikipedia is now generally accepted as a place for accurate information, it would be interesting to analyze only the most accesses articles. I would also like to see if we can extrapolate heuristic techniques from this data to identify the quality of articles outside of Wikipedia.
 
 
-## License
+## Project License
+Please view the [MIT License](https://github.com/helen-ngo/data-512-a2/blob/main/LICENSE?raw=true) for details.
